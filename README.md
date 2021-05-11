@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Profile card component
 ## HTML - CSS - Bootstrap Responsive
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
@@ -17,8 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://github.com/Cataclas/Frontend-Mentor_Social-proof-section](https://github.com/Cataclas/Frontend-Mentor_Social-proof-section)
-- Live Site URL: [https://cataclas.github.io/Frontend-Mentor_Social-proof-section/](https://cataclas.github.io/Frontend-Mentor_Social-proof-section/)
+- Solution URL: [https://github.com/Cataclas/Frontend-Mentor_Profile-card-component](https://github.com/Cataclas/Frontend-Mentor_Profile-card-component)
+- Live Site URL: [https://cataclas.github.io/Frontend-Mentor_Profile-card-component/](https://cataclas.github.io/Frontend-Mentor_Profile-card-component/)
 
 
 ## Built with
